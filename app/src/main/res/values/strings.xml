@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Application login test 1</string>
+    <string name="enter_name">Enter name:-</string>
+    <string name="name">R.Id/Email
+    </string>
+
+    <string name="no_of_attempt_remaining_5">No of attempt remaining:- 5</string>
+    <string name="enter_password">Password
+
+
+    </string>
+    <string name="DBMS">Data Base Management System</string>
+    <string name="CN">Computer Network</string>
+    <string name="FLAT">Formal Language And Automata Theory</string>
+    <string name="PL">Programming Language</string>
+    <string name="SE">Software Engineering</string>
+    <string name="OOPS">Object Oriented Programming</string>
+    <string name="Admin_Details">
+        Admin\n
+        19010001007\n
+        B.Tech Cse 5th sem\n
+    </string>
+
+</resources>
